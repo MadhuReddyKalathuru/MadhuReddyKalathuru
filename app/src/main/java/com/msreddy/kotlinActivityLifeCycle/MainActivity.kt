@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun dummy()
     {
-        Log.d("TAG", "dummy: ")
+        Log.d("TAG", "dummys: ")
     }
 
 }
